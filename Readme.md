@@ -1,7 +1,5 @@
 # 0AD_QAStudent
 
-Steps to reproduce.
-
 [Title]
 
 Buildings suffer no visible damage when attacked.
@@ -18,7 +16,7 @@ During the tutorial, the overall goal is to defeat your enemy with an army. Once
 Medium.
 
 [Reproduction rate]
-5/5
+5/5.
 
 [Actual Result]
 Buildings attacked just disappear when attacked by military units.
@@ -42,5 +40,5 @@ During an assault by player forces, buildings will degrade to show damage from m
 
 [Reported by]
 
-Runadere
+Runadere.
 
