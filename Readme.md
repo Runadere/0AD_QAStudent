@@ -35,5 +35,6 @@ During an assault by player forces, buildings will degrade to show damage from m
 6. Observe buildings being attacked with no visible damage displayed.
 
 [Reported by]
+
 Runadere
 
