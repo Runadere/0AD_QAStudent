@@ -36,9 +36,14 @@ During an assault by player forces, buildings will degrade to show damage from m
 
 5. When enemy settlement located, engage units and buildings.
 
-6. Observe buildings being attacked with no visible damage displayed.
+6. Observe buildings being attacked with no visible damage displayed (2 attached files)
 
 [Reported by]
 
 Runadere.
+
+https://github.com/Runadere/0AD_QAStudent/assets/52005395/cb32f7d9-cf2f-489f-936c-c89177c28e19
+
+
+https://github.com/Runadere/0AD_QAStudent/assets/52005395/5592a85b-c9bb-476b-80ef-52ea4b2840d6
 
